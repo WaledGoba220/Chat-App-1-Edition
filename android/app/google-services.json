@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932683531277",
+    "project_id": "message-app-33da4",
+    "storage_bucket": "message-app-33da4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932683531277:android:e78d6549bcf4a590020144",
+        "android_client_info": {
+          "package_name": "com.example.message_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932683531277-bs5pmsetvf9vh7fdfcejjrk7fhjqr4ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOlSAf5xuLFdb0GxXa2H0LXwRpcjb8yPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932683531277-bs5pmsetvf9vh7fdfcejjrk7fhjqr4ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
